@@ -7,6 +7,7 @@ A empresa Savinis, focada no desenvolvimento de software de alta performance, co
  Esse sistema terá como função principal a divulgação dos eventos para a comunidade de desenvolvimento para que sejam consultados de forma eficiente.
 
 **Requisitos:**
+
 -Se a data do evento for posterior à data atual, permitir o evento; senão, alertar que o cadastro não será permitido por data inválida.
 
 -Se o participante for maior de 18 anos, permitir o cadastro; senão, alertar que o cadastro não é permitido pela idade.
